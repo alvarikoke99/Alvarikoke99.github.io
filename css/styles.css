@@ -607,7 +607,7 @@ hr.div-light {
     width: 50vw;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1550px) {
     .navbar-header {
         float: none;
     }
