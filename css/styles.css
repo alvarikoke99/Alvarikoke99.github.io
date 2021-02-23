@@ -569,7 +569,7 @@ footer .footer-below {
 }
 
 #check {
-    margin-right: 8px;
+    margin-right: 4px;
 }
 
 #portfolio {
@@ -605,4 +605,9 @@ hr.div-light {
 
 .container.bars {
     width: 50vw;
+    text-align: center;
+}
+
+#skills-text {
+    text-align: justify;
 }
