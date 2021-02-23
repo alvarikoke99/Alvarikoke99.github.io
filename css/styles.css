@@ -485,7 +485,7 @@ footer .footer-below {
 }
 
 .img-item {
-    width: 225px;
+    width: 156px;
     height: auto;
     text-align: center;
     display: block;
@@ -496,7 +496,7 @@ footer .footer-below {
 }
 
 .img-prev {
-    width: 225px;
+    width: 156px;
     height: auto;
     text-align: center;
     display: block;
@@ -506,8 +506,8 @@ footer .footer-below {
 }
 
 #user {
-    width: 200px;
-    padding-top: 16px;
+    width: 156px;
+    padding-top: 0px;
 }
 
 .img-left {
@@ -533,6 +533,22 @@ footer .footer-below {
     display: block;
     margin-left: -140px;
     margin-right: auto; 
+}
+
+@media (max-width: 768px) {
+    .img-left {
+        margin-right: auto;
+    }
+    #img-tlf {
+        margin-right: auto;
+    }
+    .text {
+        margin-left: auto;
+        text-align: center;
+    }
+    #text-tlf {
+        text-align: center;   
+    }
 }
 
 .item {
@@ -585,4 +601,8 @@ hr.div-light {
     background-color: #fff;
     width: 246px;
     height: 1px;
+}
+
+.container.bars {
+    width: 50vw;
 }
