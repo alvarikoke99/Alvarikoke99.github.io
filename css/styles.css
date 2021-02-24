@@ -549,6 +549,10 @@ footer .footer-below {
     #text-tlf {
         text-align: center;   
     }
+    .container.bars {
+        width: 75vw;
+        
+    }
 }
 
 .item {
@@ -569,7 +573,7 @@ footer .footer-below {
 }
 
 #check {
-    margin-right: 4px;
+    margin-right: 8px;
 }
 
 #portfolio {
@@ -603,11 +607,6 @@ hr.div-light {
     height: 1px;
 }
 
-.container.bars {
-    width: 50vw;
+.list-inline.dev-icons {
     text-align: center;
-}
-
-#skills-text {
-    text-align: justify;
 }
