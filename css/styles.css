@@ -485,7 +485,7 @@ footer .footer-below {
 }
 
 .img-item {
-    width: 156px;
+    width: 180px;
     height: auto;
     text-align: center;
     display: block;
@@ -593,6 +593,15 @@ footer .footer-below {
     margin-right: auto;
 }
 
+.img-portfolio {
+    width: auto;
+    height: 500px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 hr.div-dark {
     border: 2px solid #2c3e50;
     background-color: #2c3e50;
@@ -609,4 +618,19 @@ hr.div-light {
 
 .list-inline.dev-icons {
     text-align: center;
+}
+
+.btn-default {
+    margin-left: 16px;
+    background-color: #2c3e50;
+    border-color: #fff;
+    border-radius: 32px;
+    border-width: 2px;
+    outline: none;
+}
+
+.btn-default:hover {
+    color: #eb4034;
+    background-color: #fff;
+    border-color: #fff;
 }
