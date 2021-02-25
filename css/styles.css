@@ -634,3 +634,21 @@ hr.div-light {
     background-color: #fff;
     border-color: #fff;
 }
+
+.btn-tw:hover {
+    color: #1da1f2;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.btn-git:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.btn-linked:hover {
+    color: #0e76a8;
+    background-color: #fff;
+    border-color: #fff;
+}
