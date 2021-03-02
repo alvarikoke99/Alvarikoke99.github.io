@@ -495,6 +495,15 @@ footer .footer-below {
     padding-bottom: 16px;
 }
 
+#drone {
+    width: 240px;
+}
+
+#cpu {
+    width: 160px;
+    margin-top: 8px;
+}
+
 .img-prev {
     width: 156px;
     height: auto;
