@@ -535,6 +535,7 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: 32px;
+    background-color: white;
 }
 
 .text { 
